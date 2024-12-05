@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E707B06-8FB7-4A12-8B9D-B9B2EBF24652}|API\\API.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E707B06-8FB7-4A12-8B9D-B9B2EBF24652}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261664F8-FD07-4B05-AAD1-52FE2FD75537}|Persistence\\Persistence.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261664F8-FD07-4B05-AAD1-52FE2FD75537}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\domain\\entities\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\serviceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\domain\\entities\\userprofessionalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userprofessionalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\domain\\entities\\providerservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\providerservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E24CF7-F341-446D-AA79-C072FE54617B}|Application\\Application.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E24CF7-F341-446D-AA79-C072FE54617B}|Application\\Application.csproj|solutionrelative:application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|c:\\users\\maxfe\\source\\repos\\azureprojectservice\\domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429ED5B9-BDEE-419B-8B75-A442CA337241}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:37:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:35:18.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Application\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Application\\Services\\UserServices.cs",
+              "RelativeToolTip": "Application\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:55:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:55:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProviderServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\ProviderServiceType.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProviderServiceType.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\ProviderServiceType.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProviderServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:30:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfessionalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\UserProfessionalHistory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserProfessionalHistory.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\UserProfessionalHistory.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserProfessionalHistory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:32:44.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\Contact.cs",
+              "RelativeToolTip": "Domain\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:31:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceOrder.cs",
+              "DocumentMoniker": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\ServiceOrder.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ServiceOrder.cs",
+              "ToolTip": "C:\\Users\\maxfe\\source\\repos\\AzureProjectService\\Domain\\Entities\\ServiceOrder.cs",
+              "RelativeToolTip": "Domain\\Entities\\ServiceOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:30:42.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
